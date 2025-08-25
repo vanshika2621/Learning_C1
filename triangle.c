@@ -9,7 +9,7 @@ int main()
     scanf("%f", &s2);
     scanf("%f", &s3); 
     
-    // Check triangle validity
+    
     if (s1 + s2 > s3 && s1 + s3 > s2 && s2 + s3 > s1) 
     { 
         printf("The given triangle is valid\n"); 
