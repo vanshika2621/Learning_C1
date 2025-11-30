@@ -1,4 +1,4 @@
-//Reverse an array without taking extra space.
+//Reverse an array 
 #include<stdio.h>
 int main(){
     const int SIZE=6;
